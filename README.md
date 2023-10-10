@@ -1,0 +1,2 @@
+# baiqmedina
+web dasar
